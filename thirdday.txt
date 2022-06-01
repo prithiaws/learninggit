@@ -1,0 +1,2 @@
+hi, good morinig
+today we are learning git commands
